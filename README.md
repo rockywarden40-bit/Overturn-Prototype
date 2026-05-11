@@ -36,3 +36,19 @@ The secret ending was coded but never actually implemented in the game due to a 
 Date completed: [4 of April, 2026]
 
 — Vihaan Bisht (Emru?)
+
+## License
+
+This project is licensed under the GNU GPL v3 License.
+
+You are free to:
+- Fork the project
+- Modify the code
+- Create mods or derivative versions
+
+However:
+- You must provide proper credit to the original creator
+- You may not claim the original project as entirely your own work
+- Modified versions must also remain open-source under the same license
+
+© 2026 Vihaan Bisht
