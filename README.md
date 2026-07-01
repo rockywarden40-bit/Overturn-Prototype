@@ -53,4 +53,4 @@ However:
 - You may not claim the original project as entirely your own work
 - Modified versions must also remain open-source under the same license
 
-© 2025–2026 Vihaan Productions™. All rights reserved.
+© 2025–2026 Vihaan Productions™
